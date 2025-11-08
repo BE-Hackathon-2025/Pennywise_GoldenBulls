@@ -40,7 +40,7 @@ Finora is built for **individuals, freelancers, and small business owners** who 
 
 ### Link to Demo Presentation 📽
 
-[Finora Live Demo]([https://www.canva.com](https://www.loom.com/share/494ef18069fb477c857eefe8c30ed5c8)) 
+[Finora Live Demo](https://https://www.loom.com/share/8d09f2bec3e84c3ebb4a81db9ae8a77c)) 
 
 
 
