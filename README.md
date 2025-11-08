@@ -61,7 +61,7 @@ Finora is built for **individuals, freelancers, and small business owners** who 
 
 ### School Name 🏫
 
-Johnson C. Smith University Team A
+**Johnson C. Smith University Team A #23**
 
 ### Team Name 🏷
 
@@ -71,9 +71,9 @@ Team A
 
 * **Holiness Mhlanga (CTO & Developer)** — Full Stack Engineer specializing in AI and Cloud Infrastructure
 * **Nkazimulo Gumede** —Frontend Developer
-* **Alaistair Park -Product & Strategy Lead
-* Deijha Canty - Business Analyst
-* Amyis Johnson - Marketing Specialist
+* **Alaistair Park** -Product & Strategy Lead
+* **Deijha Canty** - Business Analyst
+* **Amyis Johnson** - Marketing Specialist
 
 
 **Finora — Stress less. Understand more.**
