@@ -1,10 +1,10 @@
-# Finora AI - Your finances. Automated.*
+# Finora AI - Your finances. Automated.
 > Stack: MERN (MongoDB, Express/Node.js, React, TypeScript)
 
 Finora is an AI-driven personal finance and expense management platform that automates transaction entry via receipt scanning, bulk CSV imports and
 visualizes insights through MongoDB aggregate pipelines, and delivers monthly email reports.
 
-🚀 Features
+#🚀 Features
 🔐 Authentication:Secure Email + Password with JWT
 🏢 Transactions: Create, edit, duplicate, and bulk import and  delete
 📤Receipt AI: Upload & auto-scan receipts (extract amount, date, merchant)
@@ -21,18 +21,18 @@ visualizes insights through MongoDB aggregate pipelines, and delivers monthly em
 🧑‍💼 Profile Photo Upload: Cloudinary integration
 🌐 Built With: MERN Stack (Node.js, MongoDB, React, TypeScript)
 
- 🧩 Project Overview
+# 🧩 Project Overview
 
 Finora automates financial recordkeeping by combining AI receipt scanning, analytics visualization, and automated reporting. It’s designed for:
 Individuals managing personal finances
 Freelancers tracking income & expenses
 Small businesses seeking lightweight, automated bookkeeping
 
-⚙️ Tech Stack
+#⚙️ Tech Stack
 
-#Frontend:
+Frontend:
 React + TypeScript + Chart.js + Axios
-#Backend:
+Backend:
 Node.js + Express + TypeScript
 Database:
 MongoDB (Mongoose)
